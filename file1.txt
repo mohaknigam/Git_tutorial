@@ -1,9 +1,6 @@
 lorem 32
 change 1
 lorem 32 change
-<<<<<<< HEAD
 hey i am in master.
-=======
 hey i am in b1.
->>>>>>> b1
 1
